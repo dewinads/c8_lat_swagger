@@ -1,22 +1,22 @@
 {
   "development": {
     "username": "postgres",
-    "password": "password",
-    "database": "ch8_swagger_development",
+    "password": "w12345",
+    "database": "lat1_swagger_development",
     "host": "localhost",
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
-    "password": "password",
-    "database": "ch8_swagger_test",
+    "password": "w12345",
+    "database": "lat1_swagger_test",
     "host": "localhost",
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
-    "password": "password",
-    "database": "ch8_swagger_production",
+    "password": "w12345",
+    "database": "lat1_swagger_production",
     "host": "localhost",
     "dialect": "postgres"
   }
